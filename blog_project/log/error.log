@@ -1,0 +1,6 @@
+2016-12-17 19:10:40,720 [Thread-54:45848] [blog.views:170] [views:do_reg] [ERROR]- Reverse for '' with arguments '()' and keyword arguments '{}' not found. 0 pattern(s) tried: []
+2016-12-17 19:10:52,503 [Thread-58:53476] [blog.views:170] [views:do_reg] [ERROR]- (1062, "Duplicate entry 'wenlei' for key 'username'")
+2016-12-17 19:12:04,167 [Thread-65:65668] [blog.views:170] [views:do_reg] [ERROR]- (1062, "Duplicate entry 'wenlei' for key 'username'")
+2016-12-17 19:12:16,575 [Thread-67:66792] [blog.views:170] [views:do_reg] [ERROR]- (1062, "Duplicate entry 'wenlei' for key 'username'")
+2016-12-17 19:12:41,135 [Thread-72:66860] [blog.views:194] [views:do_login] [ERROR]- Reverse for '' with arguments '()' and keyword arguments '{}' not found. 0 pattern(s) tried: []
+2016-12-17 19:31:33,630 [Thread-114:1840] [blog.views:170] [views:do_reg] [ERROR]- Reverse for '' with arguments '()' and keyword arguments '{}' not found. 0 pattern(s) tried: []
